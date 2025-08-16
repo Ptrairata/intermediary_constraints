@@ -97,8 +97,8 @@ pip install -r requirements.txt
 ## Option 2: Run online in Google Colab
 No setup required – open notebooks directly in Colab:
 
-- [Regression Main in Colab](https://colab.research.google.com/github/Ptrairata/intermediary_constraints/notebooks/regression_main.ipynb)  
-- [Regressors in Colab](https://colab.research.google.com/github/Ptrairata/intermediary_constraints/notebooks/regressors.ipynb)  
+- [Regression Main in Colab](https://colab.research.google.com/github/Ptrairata/intermediary_constraints/blob/main/notebooks/regression_main.ipynb)  
+- [Regressors in Colab](https://colab.research.google.com/github/Ptrairata/intermediary_constraints/blob/main/notebooks/regressors.ipynb)  
 
 
 
